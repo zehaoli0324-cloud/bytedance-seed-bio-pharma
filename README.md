@@ -24,4 +24,4 @@ GitHub 的 fork 网络按上游项目分别管理，因此每个项目会以独�
 
 ## Benchmark
 
-按项目整理的 benchmark 入口、国外同类项目对比、评测缺口和补强路线见 [docs/benchmarks.md](docs/benchmarks.md)。本页只比较生物方向；THEMol 和 JoltQC 的量子化学内容不纳入该分析。
+按项目整理的 benchmark 入口、国外同类项目对比、评测缺口和补强路线见 [docs/benchmarks.md](docs/benchmarks.md)。推荐的第一个可执行项目是 [Protenix/PXMeter 独立 Benchmark 审计](docs/protenix-benchmark-audit.md)。本页只比较生物方向；THEMol 和 JoltQC 的量子化学内容不纳入该分析。
